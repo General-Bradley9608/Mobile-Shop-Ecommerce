@@ -46,7 +46,7 @@ In case you want to run it without Docker (requires additional setup):
 ### Steps:
 1. Clone repo on your local machine:
 ```
-$ git clone https://github.com/ivan3123708/fullstack-shopping-cart.git
+$ git clone https://github.com/SuperCreator9005/ShoppingCart-FullStack.git
 ```
 2. Run `docker-compose`
 ```
