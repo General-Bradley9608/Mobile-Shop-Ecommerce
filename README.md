@@ -50,7 +50,7 @@ $ git clone https://github.com/SuperCreator9005/ShoppingCart-FullStack.git
 ```
 2. Run `docker-compose`
 ```
-$ cd fullstack-shopping-cart
+$ cd ShoppingCart-FullStack
 $ docker-compose up -d
 ```
 This will pull images and build 3 containers for each part of the application: `frontent`, `backend` & `db`.
